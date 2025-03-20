@@ -1,0 +1,28 @@
+.banner{
+    background-color: #017396;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.banner p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+menu{
+    background-color: #028aa1;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
+
+.links{
+    padding: 50px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 5px solid rgb(255, 255, 255);
+    
+}
